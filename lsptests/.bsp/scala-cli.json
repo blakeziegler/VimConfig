@@ -1,0 +1,20 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/Users/blakeziegler/Library/Application Support/Coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/Users/blakeziegler/.config/nvim/lsptests/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/Users/blakeziegler/.config/nvim/lsptests/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/Users/blakeziegler/.config/nvim/lsptests/.scala-build/ide-envs.json",
+    "/Users/blakeziegler/.config/nvim/lsptests"
+  ],
+  "version": "1.4.1",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
